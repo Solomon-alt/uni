@@ -1,0 +1,1 @@
+<view class="_div data-v-57280228"><button type="default" data-event-opts="{{[['tap',[['handle',['$event']]]]]}}" bindtap="__e" class="data-v-57280228">按钮</button></view>
